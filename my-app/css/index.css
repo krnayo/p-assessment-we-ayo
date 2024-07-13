@@ -1,0 +1,510 @@
+.lou-geh-cardealership1 {
+    flex: 1;
+    position: relative;
+    white-space: nowrap;
+  }
+  .lou-geh-cardealership {
+    width: 251px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .lou-geh-cardealership3 {
+    text-decoration: none;
+    flex: 1;
+    position: relative;
+    color: inherit;
+  }
+  .lou-geh-cardealership2 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+  }
+  .lou-geh-cardealership5 {
+    flex: 1;
+    position: relative;
+    white-space: nowrap;
+  }
+  .lou-geh-cardealership4 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    z-index: 1;
+    margin-left: -9px;
+  }
+  .lou-geh-cardealership7 {
+    text-decoration: none;
+    flex: 1;
+    position: relative;
+    color: inherit;
+    white-space: nowrap;
+  }
+  .lou-geh-cardealership-parent,
+  .lou-geh-cardealership6 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .lou-geh-cardealership6 {
+    flex: 1;
+    flex-shrink: 0;
+    z-index: 2;
+    margin-left: -9px;
+  }
+  .lou-geh-cardealership-parent {
+    width: 735px;
+    max-width: 100%;
+  }
+  .homepage,
+  .image-icon {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .homepage {
+    background-color: var(--background-default-default);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 36px 113px 37px;
+    box-sizing: border-box;
+    gap: 75px;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    text-align: left;
+    font-size: var(--single-line-body-base-size);
+    color: var(--color-black);
+    font-family: var(--single-line-body-base);
+  }
+  .image-icon {
+    flex: 1;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .text1 {
+    flex: 1;
+    position: relative;
+    line-height: 140%;
+  }
+  .text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-strong1 {
+    position: relative;
+    line-height: 140%;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 22px;
+    white-space: nowrap;
+  }
+  .text-strong {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small1 {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    min-width: 68px;
+  }
+  .body,
+  .product-info-card,
+  .text-small {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small {
+    flex-direction: row;
+    font-size: var(--font-size-sm);
+    color: var(--text-default-secondary);
+  }
+  .body,
+  .product-info-card {
+    flex-direction: column;
+    gap: var(--space-200);
+  }
+  .product-info-card {
+    width: 240px;
+    border-radius: var(--radius-200);
+    background-color: var(--background-default-default);
+    border: 1px solid var(--border-default-default);
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: var(--space-400) var(--padding-mini);
+    gap: var(--space-400);
+    min-width: 240px;
+  }
+  .image-icon1 {
+    align-self: stretch;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .text3 {
+    flex: 1;
+    position: relative;
+    line-height: 140%;
+  }
+  .text2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-strong3 {
+    position: relative;
+    line-height: 140%;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 22px;
+    white-space: nowrap;
+  }
+  .text-strong2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small3 {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    min-width: 68px;
+  }
+  .body1,
+  .product-info-card1,
+  .text-small2 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small2 {
+    flex-direction: row;
+    font-size: var(--font-size-sm);
+    color: var(--text-default-secondary);
+  }
+  .body1,
+  .product-info-card1 {
+    flex-direction: column;
+    gap: var(--space-200);
+  }
+  .product-info-card1 {
+    width: 240px;
+    border-radius: var(--radius-200);
+    background-color: var(--background-default-default);
+    border: 1px solid var(--border-default-default);
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: var(--space-400) var(--padding-mini);
+    gap: var(--space-400);
+    min-width: 240px;
+  }
+  .image-icon2 {
+    align-self: stretch;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .text5 {
+    flex: 1;
+    position: relative;
+    line-height: 140%;
+  }
+  .text4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-strong5 {
+    position: relative;
+    line-height: 140%;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 22px;
+    white-space: nowrap;
+  }
+  .text-strong4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small5 {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    min-width: 68px;
+  }
+  .body2,
+  .product-info-card2,
+  .text-small4 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small4 {
+    flex-direction: row;
+    font-size: var(--font-size-sm);
+    color: var(--text-default-secondary);
+  }
+  .body2,
+  .product-info-card2 {
+    flex-direction: column;
+    gap: var(--space-200);
+  }
+  .product-info-card2 {
+    width: 240px;
+    border-radius: var(--radius-200);
+    background-color: var(--background-default-default);
+    border: 1px solid var(--border-default-default);
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: var(--space-400) var(--padding-mini);
+    gap: var(--space-400);
+    min-width: 240px;
+  }
+  .image-icon3 {
+    align-self: stretch;
+    flex: 1;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .text7 {
+    flex: 1;
+    position: relative;
+    line-height: 140%;
+  }
+  .text6 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-strong7 {
+    position: relative;
+    line-height: 140%;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 22px;
+    white-space: nowrap;
+  }
+  .text-strong6 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .text-small7 {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    min-width: 68px;
+  }
+  .body3,
+  .text-small6 {
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .text-small6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: var(--font-size-sm);
+    color: var(--text-default-secondary);
+  }
+  .body3 {
+    flex-direction: column;
+    gap: var(--space-200);
+  }
+  .body3,
+  .product-card,
+  .product-info-card3 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .product-info-card3 {
+    align-self: stretch;
+    width: 240px;
+    border-radius: var(--radius-200);
+    background-color: var(--background-default-default);
+    border: 1px solid var(--border-default-default);
+    box-sizing: border-box;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: var(--space-400) var(--padding-mini);
+    gap: var(--space-400);
+    min-width: 240px;
+  }
+  .product-card {
+    width: 1194px;
+    flex: 1;
+    overflow-x: auto;
+    flex-direction: row;
+    align-items: center;
+    gap: 78px;
+    max-width: 100%;
+  }
+  .star-icon {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+    min-height: 16px;
+  }
+  .button1 {
+    position: relative;
+    font-size: var(--single-line-body-base-size);
+    line-height: 100%;
+    font-family: var(--single-line-body-base);
+    color: var(--text-brand-on-brand);
+    text-align: left;
+  }
+  .x-icon {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+    min-height: 16px;
+  }
+  .button {
+    cursor: pointer;
+    border: 1px solid var(--background-brand-default);
+    padding: 10px 11px;
+    background-color: var(--background-brand-default);
+    border-radius: var(--radius-200);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--space-200);
+  }
+  .button-wrapper,
+  .product-card-parent {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .button-wrapper {
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+  }
+  .product-card-parent {
+    width: 1194px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 177px;
+    max-width: 100%;
+  }
+  .content,
+  .div {
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .content {
+    align-self: stretch;
+    height: 592px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--single-line-body-base-size);
+    color: var(--text-default-default);
+    font-family: var(--single-line-body-base);
+  }
+  .div {
+    width: 100%;
+    position: relative;
+    background-color: #e0e0e0;
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 0 256px;
+    gap: 84px;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1200px) {
+    .homepage {
+      padding-left: var(--padding-37xl);
+      padding-right: var(--padding-37xl);
+      box-sizing: border-box;
+    }
+    .product-card {
+      gap: 39px;
+    }
+    .product-card-parent {
+      gap: 88px;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .lou-geh-cardealership-parent {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .homepage {
+      gap: 37px;
+      padding-left: var(--padding-9xl);
+      padding-right: var(--padding-9xl);
+      box-sizing: border-box;
+    }
+    .product-card {
+      gap: var(--gap-lgi);
+    }
+    .product-card-parent {
+      gap: 44px;
+    }
+    .div {
+      gap: 42px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .homepage {
+      gap: var(--gap-lgi);
+    }
+    .product-card-parent {
+      gap: 22px;
+    }
+    .div {
+      gap: 21px;
+    }
+  }
