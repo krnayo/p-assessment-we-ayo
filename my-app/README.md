@@ -9,3 +9,4 @@ Install via package manager using your terminal:
 3. For bootrap icons install via package manager using your terminal:
 ``` npm i bootstrap-icons ```
 
+4. Run the index.html file
